@@ -1,3 +1,4 @@
 node_modules/
 .cache/
 public
+const API_KEY = "62d88c091776fd5eb72b87a19b29219e" 
