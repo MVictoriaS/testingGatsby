@@ -7,6 +7,12 @@
   Gatsby minimal starter
 </h1>
 
+
+Just learning Gatsby
+
+
+
+
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
